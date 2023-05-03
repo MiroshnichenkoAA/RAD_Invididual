@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moonb\\source\\repos\\RAD_Мирошниченко\\WinFormsApp2.csproj": {}
+    "C:\\Users\\s0160099\\Downloads\\RAD_Invididual-main\\RAD_Invididual-main\\RAD_Мирошниченко\\WinFormsApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moonb\\source\\repos\\RAD_Мирошниченко\\WinFormsApp2.csproj": {
+    "C:\\Users\\s0160099\\Downloads\\RAD_Invididual-main\\RAD_Invididual-main\\RAD_Мирошниченко\\WinFormsApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moonb\\source\\repos\\RAD_Мирошниченко\\WinFormsApp2.csproj",
+        "projectUniqueName": "C:\\Users\\s0160099\\Downloads\\RAD_Invididual-main\\RAD_Invididual-main\\RAD_Мирошниченко\\WinFormsApp2.csproj",
         "projectName": "WinFormsApp2",
-        "projectPath": "C:\\Users\\moonb\\source\\repos\\RAD_Мирошниченко\\WinFormsApp2.csproj",
-        "packagesPath": "C:\\Users\\moonb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moonb\\source\\repos\\RAD_Мирошниченко\\obj\\",
+        "projectPath": "C:\\Users\\s0160099\\Downloads\\RAD_Invididual-main\\RAD_Invididual-main\\RAD_Мирошниченко\\WinFormsApp2.csproj",
+        "packagesPath": "C:\\Users\\s0160099\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s0160099\\Downloads\\RAD_Invididual-main\\RAD_Invididual-main\\RAD_Мирошниченко\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\moonb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\s0160099\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,6 +59,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -67,7 +85,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.116\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,3 +1,9 @@
 is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
 build_property.RootNamespace = WinFormsApp2
-build_property.ProjectDir = C:\Users\moonb\source\repos\RAD_Мирошниченко\
+build_property.ProjectDir = C:\Users\s0160099\Downloads\RAD_Invididual-main\RAD_Invididual-main\RAD_Мирошниченко\
